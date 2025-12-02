@@ -1,0 +1,3 @@
+--+ O Conto +--
+
+Digite start para começar. 
